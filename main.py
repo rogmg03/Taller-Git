@@ -3,7 +3,7 @@ import license
 import about
 #Label(etiqueta)
  
-root = Tk()
+root = Tk() # Tk initialize
  
 root.title("Taller GIT") 
 root.minsize(500,500) 
